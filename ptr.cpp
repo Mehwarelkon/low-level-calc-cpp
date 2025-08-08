@@ -193,7 +193,7 @@ std::cout<<parser(tokens)<<std::endl;
   return 0;
 }
 int main(){
- std::cout<<"this programm runs calculator \nit has + - / * ^\nit doesnt allow prantheses for now\nit allows negative number\nno charcters like abcd only numbers and operators\nthis calc assums you are smart so dont do charcters or anything stupid\n";
+ std::cout<<"this programm runs calculator \nit has + - / * ^\nit allows prantheses\nit allows negative number\nno charcters like abcd only numbers and operators\nthis calc assums you are smart so dont do charcters or anything stupid\n";
  while(true){
   main2();
  }
